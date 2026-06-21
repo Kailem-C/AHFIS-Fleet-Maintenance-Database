@@ -8,8 +8,8 @@ VALUES
 INSERT INTO Drivers
 (DriverID, FirstName, LastName, CDLNumber, HireDate)
 VALUES
-(1, 'Kailem', 'Conow', 'CDL1001', '2025-01-01'),
-(2, 'Shelani', 'Conow', 'CDL1002', '2025-01-01'),
+(1, 'Marcus', 'Smith', 'CDL1001', '2025-01-01'),
+(2, 'Steve', 'Bartman', 'CDL1002', '2025-01-01'),
 (3, 'Marcus', 'Reed', 'CDL1003', '2025-06-15');
 
 INSERT INTO Shops
